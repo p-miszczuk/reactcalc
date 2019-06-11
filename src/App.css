@@ -1,0 +1,16 @@
+.calc {
+  width: 250px;
+}
+.keybord button {
+  min-width: 50px !important;
+  display: block;
+}
+.display {
+  height: 35px;
+  overflow: hidden;
+}
+button:hover {
+  display: block;
+  box-sizing: border-box;
+  color: red;
+}
